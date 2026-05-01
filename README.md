@@ -1,5 +1,7 @@
 📱 WhatsApp Fake Message Detector Bot
 
+
+I built a bot using whatsapp-web.js — a community library — for educational/personal use
 A Node.js-based WhatsApp bot that detects fake news, scams, spam, phishing, and misinformation using AI.
 
 This bot analyzes messages sent on WhatsApp and provides a verdict with explanation and safety advice.
